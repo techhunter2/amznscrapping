@@ -39,3 +39,36 @@ scrapy crawl spidernm -o {file_name.{extension}}
 Want to contribute? Great!
 
 Clone this repo and do some contribution and generate a pull request.
+
+
+
+
+# Blogging Site
+
+This is blogging site.
+
+
+## Authors
+
+- [@](https://www.github.com/octokatherine)
+
+
+## Support
+
+For support, email fake@fake.com or join our Slack channel.
+
+
+## Running Tests
+
+To run tests, run the following command
+
+```bash
+  npm run test
+```
+
+
+## Technology
+
+ - Html
+ - Css
+ - Wordpress
